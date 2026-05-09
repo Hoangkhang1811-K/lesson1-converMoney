@@ -24,5 +24,8 @@
 
     <button type="submit">Chuyển đổi</button>
 </form>
+<hr>
+<h3>Tính năng khác:</h3>
+<a href="dictionary">👉 Chuyển đến Ứng dụng Từ điển Anh - Việt</a>
 </body>
 </html>
